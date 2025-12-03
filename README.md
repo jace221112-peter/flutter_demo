@@ -4,9 +4,7 @@
 
 ## \## 项目演示
 
-![demo](C:\Users\28254\Desktop\苹果式安卓天气app\demo.gif)
-
-
+<img src="C:\Users\28254\Desktop\苹果式安卓天气app\demo.gif" alt="demo"  />
 
 
 
